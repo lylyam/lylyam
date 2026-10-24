@@ -18,7 +18,5 @@ I design interfaces people enjoy using and build them with clean, accessible fro
 ### Featured project
 📸 **[cutebooth](https://github.com/lylyam/cuteBooth)** – a web photobooth: pick a layout, take or upload photos, decorate your strip and download it.
 
-<img src="./cutebooth-demo.gif" width="600" alt="cuteBooth demo: choosing a layout, uploading photos, decorating the strip and downloading it">
-
 ### Let's connect
 <a href="https://www.linkedin.com/in/ines-fuentes-martinez/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"></a>
