@@ -1,6 +1,6 @@
 # Hi, I'm Inés 👋
 
-<img align="right" width="300" src="./cat-coding.png" alt="Pixel art cat coding at a desk">
+<img align="right" width="230" src="./cat-coding.png" alt="Pixel art cat coding at a desk">
 
 **UX/UI Designer & Front-End Developer** based in Spain 🇪🇸
 I design interfaces people enjoy using and build them with clean, accessible front-end code.
