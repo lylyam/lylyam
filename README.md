@@ -29,7 +29,7 @@ I build web apps end to end, from the database and the API to the interface peop
 
 📸 **[cutebooth](https://github.com/lylyam/cuteBooth)** – a web photobooth: pick a layout, take or upload photos, decorate your strip and download it.
 
-### Communities I organize
+### Communities I’m part of
 <a href="https://github.com/GDG-Alicante"><img src="https://github.com/GDG-Alicante.png?size=96" height="40" alt="GDG Alicante" title="GDG Alicante"></a>&nbsp;
 <a href="https://github.com/Multitec-UA"><img src="https://github.com/Multitec-UA.png?size=96" height="40" alt="MultitecUA" title="MultitecUA"></a>
 
