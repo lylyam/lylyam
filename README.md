@@ -15,8 +15,14 @@ I design interfaces people enjoy using and build them with clean, accessible fro
 
 <br clear="right">
 
-### Featured project
+### Featured projects
 📸 **[cutebooth](https://github.com/lylyam/cuteBooth)** – a web photobooth: pick a layout, take or upload photos, decorate your strip and download it.
+
+🗓️ **[Intermodular Project](https://github.com/PI-InesFuentes)** – a resource booking system built end to end during my first year of DAW: E/R model → SQL → REST API (OpenAPI) → Java CRUD app.
+
+<a href="https://github.com/PI-InesFuentes">
+  <img src="https://raw.githubusercontent.com/PI-InesFuentes/.github/main/profile/banner.svg" width="600" alt="Intermodular Project: Resource Booking System">
+</a>
 
 ### Let's connect
 <a href="https://www.linkedin.com/in/ines-fuentes-martinez/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"></a>
