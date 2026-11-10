@@ -24,7 +24,7 @@ I design interfaces people enjoy using and build them with clean, accessible fro
 🧵 **[Nudo](https://github.com/PI-InesFuentes)** – my Intermodular Project (DAW, in progress): a SaaS for small craft workshops where booking a seat also reserves the material it uses. React · Laravel · PostgreSQL.
 
 <a href="https://github.com/lylyam/cuteBooth">
-  <img src="./cutebooth-banner-v7.svg" width="600" alt="cuteBooth: a photo booth in your browser">
+  <img src="./cutebooth-banner-v8.svg" width="600" alt="cuteBooth: a photo booth in your browser">
 </a>
 
 📸 **[cutebooth](https://github.com/lylyam/cuteBooth)** – a web photobooth: pick a layout, take or upload photos, decorate your strip and download it.
