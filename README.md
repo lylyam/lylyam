@@ -2,13 +2,13 @@
 
 <img align="right" width="230" src="./cat-coding.png" alt="Pixel art cat coding at a desk">
 
-**UX/UI Designer & Front-End Developer**
-I design interfaces people enjoy using and build them with clean, accessible front-end code.
+**Full-Stack Developer**
+I build web apps end to end, from the database and the API to the interface people actually use. I worked as a UX/UI designer before, and it still shows in how I build.
 
 ### What I do
-- 🎨 UX/UI design: user research, wireframes, prototypes and design systems
-- 💻 Front-end development: turning designs into responsive, accessible interfaces
-- 🤝 Organizer at **GDG Alicante**
+- 💻 Full-stack development: responsive, accessible front ends, REST APIs and relational databases
+- 🎨 A UX/UI background, so the product thinking comes built in
+- 🤝 Organizer at **GDG Alicante** and **MultitecUA**
 
 ### Tech stack
 <img src="./tech-stack.svg" height="48" alt="Figma, HTML, CSS, JavaScript, TypeScript, React, Git and Tailscale">
@@ -28,6 +28,10 @@ I design interfaces people enjoy using and build them with clean, accessible fro
 </a>
 
 📸 **[cutebooth](https://github.com/lylyam/cuteBooth)** – a web photobooth: pick a layout, take or upload photos, decorate your strip and download it.
+
+### Communities I organize
+<a href="https://github.com/GDG-Alicante"><img src="https://github.com/GDG-Alicante.png?size=96" height="40" alt="GDG Alicante" title="GDG Alicante"></a>&nbsp;
+<a href="https://github.com/Multitec-UA"><img src="https://github.com/Multitec-UA.png?size=96" height="40" alt="MultitecUA" title="MultitecUA"></a>
 
 ### Let's connect
 <a href="https://www.linkedin.com/in/ines-fuentes-martinez/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"></a>
