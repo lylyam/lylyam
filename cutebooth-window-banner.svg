@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="cuteBooth: a photo booth in your browser">
+  <rect width="1200" height="300" rx="18" fill="#dedede"/>
+  <g fill="none" stroke="#222" stroke-width="1.94">
+    <rect x="24" y="20" width="1152" height="262" rx="17.59" fill="#e4e4e4"/>
+    <line x1="24" y1="58" x2="1176" y2="58"/>
+    <circle cx="1150" cy="39" r="9"/>
+    <path d="M1146 35l8 8M1154 35l-8 8" stroke-width="1.6"/>
+  </g>
+  <text x="44" y="47" font-family="Pixelify Sans, Fira Code, Consolas, monospace" font-size="20" font-weight="700" fill="#222">LYM</text>
+  <g font-family="Fira Code, Consolas, Menlo, monospace">
+    <text x="76" y="150" font-size="66" font-weight="300" fill="#565656">cuteBooth</text>
+    <text x="80" y="190" font-size="17" fill="#222">a photo booth in your browser</text>
+    <text x="80" y="216" font-size="14" fill="#565656">layouts · frames · backgrounds · 273 stickers</text>
+  </g>
+  <g fill="none" stroke="#222" stroke-width="1.94">
+    <rect x="80" y="234" width="104" height="30" rx="8" fill="#e4e4e4"/>
+  </g>
+  <text x="132" y="254" text-anchor="middle" font-family="Fira Code, Consolas, Menlo, monospace" font-size="14" fill="#222">Start</text>
+  <circle cx="200" cy="249" r="5" fill="#ff9fb7"/>
+  <!-- 2x2 layout card, like the layout picker -->
+  <g transform="translate(640 74)">
+    <rect width="236" height="190" rx="10" fill="#e4e4e4" stroke="#222" stroke-width="1.94"/>
+    <g stroke="#565656" stroke-width="1.4">
+      <rect x="14" y="14" width="98" height="74" rx="6" fill="#ffd6df"/>
+      <rect x="124" y="14" width="98" height="74" rx="6" fill="#d3e6ff"/>
+      <rect x="14" y="100" width="98" height="74" rx="6" fill="#dcf3d6"/>
+      <rect x="124" y="100" width="98" height="74" rx="6" fill="#ffefc6"/>
+    </g>
+    <g fill="none" stroke="#222" stroke-width="1.6" stroke-linecap="round">
+      <g transform="translate(63 51)"><circle r="14"/><circle cx="-5" cy="-3" r="1.3" fill="#222"/><circle cx="5" cy="-3" r="1.3" fill="#222"/><path d="M-5 4q5 5 10 0"/></g>
+      <g transform="translate(173 51)"><circle r="14"/><circle cx="-5" cy="-3" r="1.3" fill="#222"/><circle cx="5" cy="-3" r="1.3" fill="#222"/><path d="M-5 4q5 5 10 0"/></g>
+      <g transform="translate(63 137)"><circle r="14"/><path d="M-7 -3h4M3 -3h4"/><path d="M-5 4q5 5 10 0"/></g>
+      <g transform="translate(173 137)"><circle r="14"/><circle cx="-5" cy="-3" r="1.3" fill="#222"/><circle cx="5" cy="-3" r="1.3" fill="#222"/><circle cx="0" cy="5" r="3"/></g>
+    </g>
+  </g>
+  <!-- classic strip, tilted -->
+  <g transform="translate(940 62) rotate(7)">
+    <rect width="92" height="206" rx="6" fill="#f4f4f4" stroke="#222" stroke-width="1.94"/>
+    <g fill="#222"><rect x="4" y="8" width="5" height="4" rx="1"/><rect x="4" y="22" width="5" height="4" rx="1"/><rect x="4" y="36" width="5" height="4" rx="1"/><rect x="4" y="50" width="5" height="4" rx="1"/><rect x="4" y="64" width="5" height="4" rx="1"/><rect x="4" y="78" width="5" height="4" rx="1"/><rect x="4" y="92" width="5" height="4" rx="1"/><rect x="4" y="106" width="5" height="4" rx="1"/><rect x="4" y="120" width="5" height="4" rx="1"/><rect x="4" y="134" width="5" height="4" rx="1"/><rect x="4" y="148" width="5" height="4" rx="1"/><rect x="4" y="162" width="5" height="4" rx="1"/><rect x="4" y="176" width="5" height="4" rx="1"/><rect x="4" y="190" width="5" height="4" rx="1"/>
+      <rect x="83" y="8" width="5" height="4" rx="1"/><rect x="83" y="22" width="5" height="4" rx="1"/><rect x="83" y="36" width="5" height="4" rx="1"/><rect x="83" y="50" width="5" height="4" rx="1"/><rect x="83" y="64" width="5" height="4" rx="1"/><rect x="83" y="78" width="5" height="4" rx="1"/><rect x="83" y="92" width="5" height="4" rx="1"/><rect x="83" y="106" width="5" height="4" rx="1"/><rect x="83" y="120" width="5" height="4" rx="1"/><rect x="83" y="134" width="5" height="4" rx="1"/><rect x="83" y="148" width="5" height="4" rx="1"/><rect x="83" y="162" width="5" height="4" rx="1"/><rect x="83" y="176" width="5" height="4" rx="1"/><rect x="83" y="190" width="5" height="4" rx="1"/></g>
+    <g fill="#fff" stroke="#222" stroke-width="1.4"><rect x="16" y="12" width="60" height="40" rx="3"/><rect x="16" y="60" width="60" height="40" rx="3"/><rect x="16" y="108" width="60" height="40" rx="3"/><rect x="16" y="156" width="60" height="40" rx="3"/></g>
+    <g fill="none" stroke="#222" stroke-width="1.3" stroke-linecap="round"><path d="M40 34q6 5 12 0M40 82q6 5 12 0M40 130q6 5 12 0M40 178q6 5 12 0"/></g>
+  </g>
+  <!-- doodle stickers -->
+  <g fill="none" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <g stroke="#c48df0" stroke-width="1.8" transform="translate(905 240)"><ellipse cx="0.0" cy="-7.0" rx="5" ry="3.5" transform="rotate(-90 0.0 -7.0)"/><ellipse cx="6.7" cy="-2.2" rx="5" ry="3.5" transform="rotate(-18 6.7 -2.2)"/><ellipse cx="4.1" cy="5.7" rx="5" ry="3.5" transform="rotate(54 4.1 5.7)"/><ellipse cx="-4.1" cy="5.7" rx="5" ry="3.5" transform="rotate(126 -4.1 5.7)"/><ellipse cx="-6.7" cy="-2.2" rx="5" ry="3.5" transform="rotate(198 -6.7 -2.2)"/><circle r="2.5"/></g>
+    <path stroke="#8fc7ef" d="M1080 92a10 10 0 0 1 18-6a9 9 0 0 1 16 6a8 8 0 0 1-2 15h-30a8 8 0 0 1-2-15z"/>
+    <path stroke="#ff8fae" d="M1078 236l6-16l6 16l6-16l6 16"/>
+    <path stroke="#9cc58a" d="M908 92l4-14M916 94l8-12M924 98l10-8"/>
+  </g>
+  <g transform="translate(1110 196)">
+    <circle r="11" fill="#e8463c" stroke="#222" stroke-width="1.4"/>
+    <path d="M-4-11q4-6 8 0" fill="#6aa84f" stroke="#222" stroke-width="1.2"/>
+    <circle cx="-4" cy="-1" r="1.3" fill="#222"/><circle cx="4" cy="-1" r="1.3" fill="#222"/>
+  </g>
+</svg>
