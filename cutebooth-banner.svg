@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="cutebooth: a web photobooth">
+  <defs>
+    <pattern id="aida" width="12" height="12" patternUnits="userSpaceOnUse">
+      <rect width="12" height="12" fill="#F6EFE4"/>
+      <circle cx="6" cy="6" r="1.1" fill="#D9CDBB"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="22" fill="url(#aida)"/>
+  <rect x="16" y="16" width="1168" height="268" rx="14" fill="none" stroke="#D6457A" stroke-width="3" stroke-dasharray="14 9" stroke-linecap="round"/>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="80" y="110" font-size="18" letter-spacing="3" fill="#D6457A" font-weight="600">PERSONAL PROJECT · WEB APP</text>
+    <text x="78" y="178" font-size="72" font-weight="800" fill="#3B2A22">cutebooth<tspan fill="#D6457A">.</tspan></text>
+    <text x="80" y="226" font-size="22" fill="#6B5A4E">Pick a layout, snap or upload photos, decorate your strip, download it.</text>
+  </g>
+  <g transform="translate(1000 40) scale(0.86) rotate(6 60 128)">
+    <rect x="0" y="0" width="120" height="256" rx="10" fill="#ffffff" stroke="#E7D9C8" stroke-width="2"/>
+    <rect x="14" y="14" width="92" height="26" rx="4" fill="none"/>
+    <text x="60" y="34" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#D6457A">♥ cute ♥</text>
+    <rect x="14" y="48" width="92" height="58" rx="6" fill="#FBE3EC"/><circle cx="60" cy="77" r="12" fill="#D6457A" fill-opacity="0.35"/><rect x="14" y="114" width="92" height="58" rx="6" fill="#FBE3EC"/><circle cx="60" cy="143" r="12" fill="#D6457A" fill-opacity="0.55"/><rect x="14" y="180" width="92" height="58" rx="6" fill="#FBE3EC"/><circle cx="60" cy="209" r="12" fill="#D6457A" fill-opacity="0.75"/>
+  </g>
+  <g fill="#D6457A" fill-opacity="0.75"><path d="M935 66 Q935 80 949 80 Q935 80 935 94 Q935 80 921 80 Q935 80 935 66Z"/><path d="M905 223 Q905 232 914 232 Q905 232 905 241 Q905 232 896 232 Q905 232 905 223Z"/><path d="M1140 240 Q1140 252 1152 252 Q1140 252 1140 264 Q1140 252 1128 252 Q1140 252 1140 240Z"/><path d="M1150 52 Q1150 60 1158 60 Q1150 60 1150 68 Q1150 60 1142 60 Q1150 60 1150 52Z"/></g>
+</svg>
